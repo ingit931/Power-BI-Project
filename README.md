@@ -1,4 +1,6 @@
 Plant Co. Performance Analysis - Power BI Project
+
+
 This repository contains the files for a Power BI project analyzing the sales performance of Plant Co. for the year 2023. The dashboard provides insights into key performance indicators (KPIs) such as gross profit, sales quantity, and profitability by customer.
 
 📊 Dashboard Preview
